@@ -32,7 +32,7 @@ if __name__ == '__main__':
         print(f'{pnum} is valid')
         exit(0)      
     
-    print('Number passed is not a valid phone number')
+    print('Number passed is not a valid phone number format')
     print('type ./phone_number.py -h for examples')
     exit(-1)
 
